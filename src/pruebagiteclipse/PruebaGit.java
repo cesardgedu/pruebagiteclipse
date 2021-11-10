@@ -6,7 +6,6 @@ public class PruebaGit {
 		System.out.println("Probando Git...");
 		
 		System.out.println("Otra prueba...");
-		System.out.println("Tercer mensaje...");
 
 	}
 
